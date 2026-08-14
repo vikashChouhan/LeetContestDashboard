@@ -123,10 +123,10 @@
           0
         ],
         "rank": 1,
-        "score": 20,
+        "score": 35,
         "solvedStates": [
           true,
-          false,
+          true,
           false,
           false
         ],
