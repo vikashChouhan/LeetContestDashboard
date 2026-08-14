@@ -123,7 +123,7 @@
           0
         ],
         "rank": 1,
-        "score": 35,
+        "score": 20,
         "solvedStates": [
           true,
           true,
@@ -132,18 +132,18 @@
         ],
         "submissionIds": [
           "2106716324",
-          null,
+          "2106746730",
           null,
           null
         ],
         "submittedAfterContest": [
           false,
-          false,
+          true,
           false
         ],
         "submittedAtTimes": [
           "00:00:33",
-          null,
+          "00:32:39",
           null,
           null
         ],
