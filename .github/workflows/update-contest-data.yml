@@ -4,6 +4,10 @@ on:
   repository_dispatch:
     types: [new_contest_record]
 
+concurrency:
+  group: update-contest-json
+  cancel-in-progress: false
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
