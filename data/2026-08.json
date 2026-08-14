@@ -89,11 +89,6 @@
     ],
     "questions": [
       {
-        "difficulty": "medium",
-        "name": "Linked List Components",
-        "url": "https://leetcode.com/problems/linked-list-components"
-      },
-      {
         "difficulty": "hard",
         "name": "Check if the Rectangle Corner Is Reachable",
         "url": "https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable"
@@ -102,6 +97,11 @@
         "difficulty": "easy",
         "name": "Valid Word",
         "url": "https://leetcode.com/problems/valid-word"
+      },
+      {
+        "difficulty": "medium",
+        "name": "Linked List Components",
+        "url": "https://leetcode.com/problems/linked-list-components"
       },
       {
         "difficulty": "medium",
