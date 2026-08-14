@@ -1,0 +1,72 @@
+name: Update Monthly Contest Data
+
+on:
+  repository_dispatch:
+    types: [new_contest_record]
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update Monthly JSON File
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const payload = context.payload.client_payload;
+            if (!payload || !payload.roomId) {
+              core.setFailed("Invalid contest payload or missing roomId");
+              return;
+            }
+
+            // Derive YYYY-MM from contest_time_stamp (milliseconds or seconds)
+            let ts = payload.contest_time_stamp || Date.now();
+            if (ts < 10000000000) ts = ts * 1000; // Convert sec to ms if needed
+            const yearMonth = new Date(ts).toISOString().slice(0, 7); // e.g. "2026-08"
+
+            const dataDir = path.join(process.env.GITHUB_WORKSPACE, 'data');
+            if (!fs.existsSync(dataDir)) {
+              fs.mkdirSync(dataDir, { recursive: true });
+            }
+
+            const filePath = path.join(dataDir, `${yearMonth}.json`);
+            let monthlyData = [];
+
+            if (fs.existsSync(filePath)) {
+              try {
+                monthlyData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+              } catch (e) {
+                monthlyData = [];
+              }
+            }
+
+            // Deduplicate: replace room data if already exists, else push
+            const existingIdx = monthlyData.findIndex(item => item.roomId === payload.roomId);
+            if (existingIdx !== -1) {
+              monthlyData[existingIdx] = payload;
+            } else {
+              monthlyData.push(payload);
+            }
+
+            fs.writeFileSync(filePath, JSON.stringify(monthlyData, null, 2), 'utf8');
+            console.log(`Successfully updated ${filePath} for Room: ${payload.roomId}`);
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: record contest ${{ github.event.client_payload.roomId }}" && git push)
