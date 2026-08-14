@@ -183,27 +183,27 @@
   },
   {
     "contest_duration_in_sec": 900,
-    "contest_time_stamp": 1786719330021,
+    "contest_time_stamp": 1786721877961,
     "leaderboard": [
       {
         "percentages": [
           0,
           0,
-          0,
+          100,
           0
         ],
         "rank": 1,
-        "score": 0,
+        "score": 15,
         "solvedStates": [
           false,
           false,
-          false,
+          true,
           false
         ],
         "submissionIds": [
           null,
           null,
-          null,
+          "2106756902",
           null
         ],
         "submittedAfterContest": [
@@ -215,10 +215,10 @@
         "submittedAtTimes": [
           null,
           null,
-          null,
+          "00:00:43",
           null
         ],
-        "totalTimeInSeconds": 0,
+        "totalTimeInSeconds": 43,
         "username": "VATS",
         "waCounts": [
           0,
@@ -230,16 +230,24 @@
     ],
     "questions": [
       {
-        "url": ""
+        "difficulty": "medium",
+        "name": "Product Sales Analysis III",
+        "url": "https://leetcode.com/problems/product-sales-analysis-iii"
       },
       {
-        "url": ""
+        "difficulty": "easy",
+        "name": "Remove All Adjacent Duplicates In String",
+        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
       },
       {
-        "url": ""
+        "difficulty": "medium",
+        "name": "Maximum Distance Between a Pair of Values",
+        "url": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values"
       },
       {
-        "url": ""
+        "difficulty": "hard",
+        "name": "Find Longest Awesome Substring",
+        "url": "https://leetcode.com/problems/find-longest-awesome-substring"
       }
     ],
     "roomId": "Xbz_T1UyMe"
