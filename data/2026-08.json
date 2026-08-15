@@ -120,7 +120,7 @@
           0,
           100,
           0,
-          0
+          100
         ],
         "rank": 1,
         "score": 10,
@@ -128,7 +128,7 @@
           false,
           true,
           false,
-          false
+          true
         ],
         "submissionIds": [
           null,
