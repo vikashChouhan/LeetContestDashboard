@@ -244,21 +244,21 @@
     "leaderboard": [
       {
         "percentages": [
-          0,
+          36.67,
           0,
           0,
           0
         ],
         "rank": 1,
-        "score": 0,
+        "score": 20,
         "solvedStates": [
-          false,
+          true,
           false,
           false,
           false
         ],
         "submissionIds": [
-          null,
+          "2107685597",
           null,
           null,
           null
@@ -270,12 +270,12 @@
           false
         ],
         "submittedAtTimes": [
-          null,
+          "00:00:43",
           null,
           null,
           null
         ],
-        "totalTimeInSeconds": 0,
+        "totalTimeInSeconds": 43,
         "username": "VATS",
         "waCounts": [
           0,
