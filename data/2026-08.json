@@ -159,7 +159,7 @@
       },
       {
         "percentages": [
-          0,
+          92.535,
           100,
           0,
           100
@@ -167,7 +167,7 @@
         "rank": 2,
         "score": 5,
         "solvedStates": [
-          false,
+          true,
           true,
           false,
           true
