@@ -164,6 +164,12 @@
           0,
           100
         ],
+        "practiced": [
+          true,
+          false,
+          false,
+          false
+        ],
         "rank": 2,
         "score": 5,
         "solvedStates": [
@@ -222,6 +228,7 @@
         "url": "https://leetcode.com/problems/check-knight-tour-configuration"
       }
     ],
-    "roomId": "bog_tUDZXX"
+    "roomId": "bog_tUDZXX",
+    "yearMonth": "2026-08"
   }
 ]
