@@ -10,6 +10,12 @@
           84.1453,
           47.7642000000001
         ],
+        "practiced": [
+          true,
+          false,
+          false,
+          false
+        ],
         "rank": 1,
         "score": 41,
         "solvedStates": [
@@ -109,7 +115,8 @@
         "url": "https://leetcode.com/problems/finding-the-users-active-minutes"
       }
     ],
-    "roomId": "r6CF2x0RSK"
+    "roomId": "r6CF2x0RSK",
+    "yearMonth": "2026-08"
   },
   {
     "contest_duration_in_sec": 2700,
