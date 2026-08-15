@@ -176,19 +176,19 @@
           null,
           "2107315038",
           null,
-          null
+          "2107377536"
         ],
         "submittedAfterContest": [
           false,
           false,
           false,
-          false
+          true
         ],
         "submittedAtTimes": [
           null,
           "00:05:03",
           null,
-          null
+          "01:08:43"
         ],
         "totalTimeInSeconds": 303,
         "username": "VATS",
