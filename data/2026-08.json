@@ -134,19 +134,19 @@
           null,
           "2107324590",
           null,
-          null
+          "2107359504"
         ],
         "submittedAfterContest": [
           false,
           false,
           false,
-          false
+          true
         ],
         "submittedAtTimes": [
           null,
           "00:14:21",
           null,
-          null
+          "00:48:56"
         ],
         "totalTimeInSeconds": 861,
         "username": "Jitender",
