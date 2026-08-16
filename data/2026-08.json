@@ -245,21 +245,21 @@
       {
         "percentages": [
           0,
-          100,
+          0,
           0,
           0
         ],
         "rank": 1,
-        "score": 5,
+        "score": 0,
         "solvedStates": [
           false,
-          true,
+          false,
           false,
           false
         ],
         "submissionIds": [
           null,
-          "2108741045",
+          null,
           null,
           null
         ],
@@ -271,21 +271,69 @@
         ],
         "submittedAtTimes": [
           null,
-          "00:07:39",
+          null,
           null,
           null
         ],
         "timeTakenOnQuestion": [
-          71,
-          294,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalTimeInSeconds": 0,
+        "username": "dummy",
+        "waCounts": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "percentages": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "rank": 1,
+        "score": 0,
+        "solvedStates": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submissionIds": [
+          null,
+          null,
           null,
           null
         ],
-        "totalTimeInSeconds": 459,
+        "submittedAfterContest": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submittedAtTimes": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "timeTakenOnQuestion": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalTimeInSeconds": 0,
         "username": "VATS",
         "waCounts": [
           0,
-          1,
+          0,
           0,
           0
         ]
