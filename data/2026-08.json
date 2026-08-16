@@ -237,5 +237,82 @@
     ],
     "roomId": "bog_tUDZXX",
     "yearMonth": "2026-08"
+  },
+  {
+    "contest_duration_in_sec": 900,
+    "contest_time_stamp": 1786874194989,
+    "leaderboard": [
+      {
+        "percentages": [
+          100,
+          0,
+          0,
+          0
+        ],
+        "rank": 1,
+        "score": 10,
+        "solvedStates": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "submissionIds": [
+          "2108819357",
+          null,
+          null,
+          null
+        ],
+        "submittedAfterContest": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submittedAtTimes": [
+          "00:01:38",
+          null,
+          null,
+          null
+        ],
+        "timeTakenOnQuestion": [
+          33,
+          0,
+          0,
+          0
+        ],
+        "totalTimeInSeconds": 98,
+        "username": "VATS",
+        "waCounts": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "difficulty": "easy",
+        "name": "XOR Operation in an Array",
+        "url": "https://leetcode.com/problems/xor-operation-in-an-array"
+      },
+      {
+        "difficulty": "medium",
+        "name": "Closest Nodes Queries in a Binary Search Tree",
+        "url": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree"
+      },
+      {
+        "difficulty": "hard",
+        "name": "Bus Routes",
+        "url": "https://leetcode.com/problems/bus-routes"
+      },
+      {
+        "difficulty": "medium",
+        "name": "Maximum OR",
+        "url": "https://leetcode.com/problems/maximum-or"
+      }
+    ],
+    "roomId": "YGaRjc52Ib"
   }
 ]
