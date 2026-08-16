@@ -245,15 +245,15 @@
       {
         "percentages": [
           14.1,
-          0,
+          34.19,
           0,
           22.57
         ],
         "rank": 1,
-        "score": 25,
+        "score": 40,
         "solvedStates": [
           true,
-          false,
+          true,
           false,
           true
         ],
