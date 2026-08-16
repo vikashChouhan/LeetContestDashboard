@@ -207,7 +207,7 @@
           false,
           false,
           false,
-          true
+          false
         ],
         "totalTimeInSeconds": 303,
         "username": "VATS",
