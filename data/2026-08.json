@@ -203,6 +203,12 @@
           null,
           "01:08:43"
         ],
+        "todo": [
+          true,
+          false,
+          false,
+          false
+        ],
         "totalTimeInSeconds": 303,
         "username": "VATS",
         "waCounts": [
