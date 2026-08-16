@@ -245,21 +245,21 @@
       {
         "percentages": [
           0,
-          0,
+          100,
           0,
           0
         ],
         "rank": 1,
-        "score": -5,
+        "score": 5,
         "solvedStates": [
           false,
-          false,
+          true,
           false,
           false
         ],
         "submissionIds": [
           null,
-          null,
+          "2108741045",
           null,
           null
         ],
@@ -271,17 +271,17 @@
         ],
         "submittedAtTimes": [
           null,
-          null,
+          "00:07:39",
           null,
           null
         ],
         "timeTakenOnQuestion": [
           71,
-          249,
+          294,
           null,
           null
         ],
-        "totalTimeInSeconds": 0,
+        "totalTimeInSeconds": 459,
         "username": "VATS",
         "waCounts": [
           0,
