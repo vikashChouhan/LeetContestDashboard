@@ -246,15 +246,15 @@
         "percentages": [
           14.1,
           34.19,
-          0,
+          50.6,
           22.57
         ],
         "rank": 1,
-        "score": 40,
+        "score": 60,
         "solvedStates": [
           true,
           true,
-          false,
+          true,
           true
         ],
         "submissionIds": [
@@ -278,7 +278,7 @@
         "timeTakenOnQuestion": [
           0,
           0,
-          0,
+          33,
           0
         ],
         "totalTimeInSeconds": 286,
