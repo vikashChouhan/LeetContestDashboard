@@ -237,5 +237,82 @@
     ],
     "roomId": "bog_tUDZXX",
     "yearMonth": "2026-08"
+  },
+  {
+    "contest_duration_in_sec": 900,
+    "contest_time_stamp": 1786871025065,
+    "leaderboard": [
+      {
+        "percentages": [
+          0,
+          0,
+          0,
+          22.57
+        ],
+        "rank": 1,
+        "score": 15,
+        "solvedStates": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "submissionIds": [
+          null,
+          null,
+          null,
+          "2108770955"
+        ],
+        "submittedAfterContest": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submittedAtTimes": [
+          null,
+          null,
+          null,
+          "00:00:59"
+        ],
+        "timeTakenOnQuestion": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalTimeInSeconds": 59,
+        "username": "VATS",
+        "waCounts": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "difficulty": "easy",
+        "name": "Minimum Operations to Make the Array Increasing",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing"
+      },
+      {
+        "difficulty": "medium",
+        "name": "Count Triplets That Can Form Two Arrays of Equal XOR",
+        "url": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor"
+      },
+      {
+        "difficulty": "hard",
+        "name": "Number of Ways to Separate Numbers",
+        "url": "https://leetcode.com/problems/number-of-ways-to-separate-numbers"
+      },
+      {
+        "difficulty": "medium",
+        "name": "Water Bottles II",
+        "url": "https://leetcode.com/problems/water-bottles-ii"
+      }
+    ],
+    "roomId": "gJklBHtUG7"
   }
 ]
