@@ -250,7 +250,7 @@
           22.57
         ],
         "rank": 1,
-        "score": 60,
+        "score": 40,
         "solvedStates": [
           true,
           true,
@@ -260,19 +260,19 @@
         "submissionIds": [
           "2108773415",
           null,
-          null,
+          "2108795730",
           "2108770955"
         ],
         "submittedAfterContest": [
           false,
           false,
-          false,
+          true,
           false
         ],
         "submittedAtTimes": [
           "00:03:47",
           null,
-          null,
+          "00:28:41",
           "00:00:59"
         ],
         "timeTakenOnQuestion": [
