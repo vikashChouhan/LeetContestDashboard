@@ -246,21 +246,21 @@
         "percentages": [
           100,
           0,
-          0,
+          26.05,
           0
         ],
         "rank": 1,
-        "score": 10,
+        "score": 30,
         "solvedStates": [
           true,
           false,
-          false,
+          true,
           false
         ],
         "submissionIds": [
           "2108819357",
           null,
-          null,
+          "2108821284",
           null
         ],
         "submittedAfterContest": [
@@ -272,16 +272,16 @@
         "submittedAtTimes": [
           "00:01:38",
           null,
-          null,
+          "00:03:40",
           null
         ],
         "timeTakenOnQuestion": [
           33,
           0,
-          2,
+          20,
           0
         ],
-        "totalTimeInSeconds": 98,
+        "totalTimeInSeconds": 318,
         "username": "VATS",
         "waCounts": [
           0,
