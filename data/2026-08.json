@@ -237,5 +237,82 @@
     ],
     "roomId": "bog_tUDZXX",
     "yearMonth": "2026-08"
+  },
+  {
+    "contest_duration_in_sec": 900,
+    "contest_time_stamp": 1786868443422,
+    "leaderboard": [
+      {
+        "percentages": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "rank": 1,
+        "score": -5,
+        "solvedStates": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submissionIds": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "submittedAfterContest": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submittedAtTimes": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "timeTakenOnQuestion": [
+          71,
+          249,
+          null,
+          null
+        ],
+        "totalTimeInSeconds": 0,
+        "username": "VATS",
+        "waCounts": [
+          0,
+          1,
+          0,
+          0
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "difficulty": "medium",
+        "name": "The Time When the Network Becomes Idle",
+        "url": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle"
+      },
+      {
+        "difficulty": "easy",
+        "name": "Strong Password Checker II",
+        "url": "https://leetcode.com/problems/strong-password-checker-ii"
+      },
+      {
+        "difficulty": "hard",
+        "name": "Shortest Impossible Sequence of Rolls",
+        "url": "https://leetcode.com/problems/shortest-impossible-sequence-of-rolls"
+      },
+      {
+        "difficulty": "medium",
+        "name": "Minimum Deletions to Make Character Frequencies Unique",
+        "url": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+      }
+    ],
+    "roomId": "6sWU9ywh4X"
   }
 ]
