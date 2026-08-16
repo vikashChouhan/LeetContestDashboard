@@ -259,7 +259,7 @@
         ],
         "submissionIds": [
           null,
-          null,
+          "2108807402",
           null,
           null
         ],
@@ -271,7 +271,7 @@
         ],
         "submittedAtTimes": [
           null,
-          null,
+          "00:08:29",
           null,
           null
         ],
@@ -281,7 +281,7 @@
           0,
           0
         ],
-        "totalTimeInSeconds": 0,
+        "totalTimeInSeconds": 509,
         "username": "VATS",
         "waCounts": [
           0,
