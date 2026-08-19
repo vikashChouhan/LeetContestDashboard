@@ -250,12 +250,60 @@
     "leaderboard": [
       {
         "percentages": [
+          68.9209,
+          100,
+          0,
+          0
+        ],
+        "rank": 1,
+        "score": 30,
+        "solvedStates": [
+          true,
+          true,
+          false,
+          false
+        ],
+        "submissionIds": [
+          "2112703257",
+          null,
+          null,
+          null
+        ],
+        "submittedAfterContest": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submittedAtTimes": [
+          "00:02:53",
+          null,
+          null,
+          null
+        ],
+        "timeTakenOnQuestion": [
+          138,
+          109,
+          2,
+          0
+        ],
+        "totalTimeInSeconds": 173,
+        "username": "VATS",
+        "waCounts": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "percentages": [
           68.92,
           0,
           100,
           0
         ],
-        "rank": 1,
+        "rank": 2,
         "score": 25,
         "solvedStates": [
           true,
@@ -289,54 +337,6 @@
         ],
         "totalTimeInSeconds": 0,
         "username": "Jitender",
-        "waCounts": [
-          0,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "percentages": [
-          68.9209,
-          0,
-          0,
-          0
-        ],
-        "rank": 2,
-        "score": 15,
-        "solvedStates": [
-          true,
-          false,
-          false,
-          false
-        ],
-        "submissionIds": [
-          "2112703257",
-          null,
-          null,
-          null
-        ],
-        "submittedAfterContest": [
-          false,
-          false,
-          false,
-          false
-        ],
-        "submittedAtTimes": [
-          "00:02:53",
-          null,
-          null,
-          null
-        ],
-        "timeTakenOnQuestion": [
-          138,
-          88,
-          0,
-          0
-        ],
-        "totalTimeInSeconds": 173,
-        "username": "VATS",
         "waCounts": [
           0,
           0,
