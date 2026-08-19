@@ -253,15 +253,15 @@
           68.92,
           21.57,
           100,
-          0
+          8.99
         ],
         "rank": 1,
-        "score": 40,
+        "score": 60,
         "solvedStates": [
           true,
           true,
           true,
-          false
+          true
         ],
         "submissionIds": [
           null,
@@ -333,7 +333,7 @@
           138,
           109,
           453,
-          308
+          461
         ],
         "totalTimeInSeconds": 173,
         "username": "VATS",
