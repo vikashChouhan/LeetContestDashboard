@@ -250,65 +250,17 @@
     "leaderboard": [
       {
         "percentages": [
-          68.9209,
+          44.44,
           0,
-          0,
+          100,
           0
         ],
         "rank": 1,
-        "score": 15,
+        "score": 25,
         "solvedStates": [
           true,
           false,
-          false,
-          false
-        ],
-        "submissionIds": [
-          "2112703257",
-          null,
-          null,
-          null
-        ],
-        "submittedAfterContest": [
-          false,
-          false,
-          false,
-          false
-        ],
-        "submittedAtTimes": [
-          "00:02:53",
-          null,
-          null,
-          null
-        ],
-        "timeTakenOnQuestion": [
-          138,
-          2,
-          0,
-          0
-        ],
-        "totalTimeInSeconds": 173,
-        "username": "VATS",
-        "waCounts": [
-          0,
-          0,
-          0,
-          0
-        ]
-      },
-      {
-        "percentages": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "rank": 2,
-        "score": 0,
-        "solvedStates": [
-          false,
-          false,
-          false,
+          true,
           false
         ],
         "submissionIds": [
@@ -337,6 +289,54 @@
         ],
         "totalTimeInSeconds": 0,
         "username": "Jitender",
+        "waCounts": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "percentages": [
+          68.9209,
+          0,
+          0,
+          0
+        ],
+        "rank": 2,
+        "score": 15,
+        "solvedStates": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "submissionIds": [
+          "2112703257",
+          null,
+          null,
+          null
+        ],
+        "submittedAfterContest": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "submittedAtTimes": [
+          "00:02:53",
+          null,
+          null,
+          null
+        ],
+        "timeTakenOnQuestion": [
+          138,
+          43,
+          0,
+          0
+        ],
+        "totalTimeInSeconds": 173,
+        "username": "VATS",
         "waCounts": [
           0,
           0,
