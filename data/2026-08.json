@@ -299,7 +299,7 @@
       {
         "percentages": [
           0,
-          0,
+          100,
           0,
           12.18
         ],
@@ -307,25 +307,25 @@
         "score": 15,
         "solvedStates": [
           false,
-          false,
+          true,
           false,
           true
         ],
         "submissionIds": [
           null,
-          null,
+          "2113655963",
           null,
           "2113636624"
         ],
         "submittedAfterContest": [
           false,
-          false,
+          true,
           false,
           false
         ],
         "submittedAtTimes": [
           null,
-          null,
+          "00:28:03",
           null,
           "00:03:27"
         ],
