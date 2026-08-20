@@ -300,7 +300,7 @@
         "percentages": [
           0,
           100,
-          0,
+          100,
           12.18
         ],
         "rank": 2,
@@ -308,25 +308,25 @@
         "solvedStates": [
           false,
           true,
-          false,
+          true,
           true
         ],
         "submissionIds": [
           null,
           "2113655963",
-          null,
+          "2113656979",
           "2113636624"
         ],
         "submittedAfterContest": [
           false,
           true,
-          false,
+          true,
           false
         ],
         "submittedAtTimes": [
           null,
           "00:28:03",
-          null,
+          "00:29:21",
           "00:03:27"
         ],
         "timeTakenOnQuestion": [
