@@ -250,7 +250,7 @@
     "leaderboard": [
       {
         "percentages": [
-          0,
+          77.23,
           25,
           100,
           100
@@ -258,25 +258,25 @@
         "rank": 1,
         "score": 37,
         "solvedStates": [
-          false,
+          true,
           true,
           true,
           true
         ],
         "submissionIds": [
-          null,
+          "2113658047",
           "2113639309",
           "2113634779",
           "2113637389"
         ],
         "submittedAfterContest": [
-          false,
+          true,
           false,
           false,
           false
         ],
         "submittedAtTimes": [
-          null,
+          "00:30:38",
           "00:06:40",
           "00:01:16",
           "00:04:05"
